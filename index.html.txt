@@ -41,7 +41,7 @@
             </p>
 
             <hr>
-            <a href="Scott Court.html">Meet the residence hall for students: Scott Court</a>
+            <a href="Scott Court.html">Meet the Residence Hall for Students: Scott Court</a>
             <hr>
 
             <p>

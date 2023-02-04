@@ -1,0 +1,35 @@
+ <!DOCTYPE html>
+    <html lang="en">
+    <link href="css/main.css" rel="stylesheet" type="text/css" media="screen,projection" >
+    <head>
+      <meta charset="UTF-8">
+      <title>Scott Court</title>
+    </head>
+    <body>
+    <h1>Scott Court</h1>
+                  <img class="scottcourt-photo" src="img/Scott Court.jpg" alt="Picture of Scott Court Residence Hall"/>
+                <h2>
+                  <p style="text-align:center">Scott Campus gives you everything you need to learn, create, have fun, 
+			be independent, and when it’s all said and done, relax among friends.</p>
+                </h2>
+
+                  <h2>
+                    <p style="text-align:center">Scott Campus offers camp and event housing throughout the Summer months.</p>
+                  </h2>
+                  <img class="scottcourt-photo" src="img/uno-scott.jpg" alt="Picture of University of Nebraska at Omaha"/>
+
+                  <hr>
+                     <p class="center">
+                     <a href="index.html">Back</a>
+                     </p>
+                  <hr>
+
+
+    </body>
+
+                     <p class="footer">
+                     <a href="https://www.unomaha.edu/international-studies-and-programs/engagement/yseali-institute/program-overview.php"target="_blank"
+                        rel="noopener noreferrer">Image Credit</a>
+                     </p>
+    <hr>
+    </html>
